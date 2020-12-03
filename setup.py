@@ -10,7 +10,7 @@ setuptools.setup(
     description="Firebase helper (fork from pyrebase)",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/luis-zepeda/firebaseHelper.git",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
