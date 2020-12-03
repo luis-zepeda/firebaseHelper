@@ -7,6 +7,7 @@ setuptools.setup(
     name="firebaseHelper",
     version="0.0.1",
     author="Luis Zepeda",
+    author_email="luiszepedavarela@comunidad.unam.mx",
     description="Firebase helper (fork from pyrebase)",
     long_description=long_description,
     long_description_content_type="text/markdown",
